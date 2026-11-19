@@ -1,0 +1,6 @@
+{
+  "name": "DIAMOND STORE",
+  "description": "Luxury menswear, handcrafted footwear, and signature accessories in Nigeria and worldwide. Your Style, Your Statement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
